@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"d98b8bf896137325","type":"text","text":"Japan and the Culture of the Four Seasons","x":-125,"y":-28,"width":405,"height":148},
+		{"id":"21ae90a020e8db91","type":"text","text":"Books","x":-125,"y":-120,"width":250,"height":60},
+		{"id":"c97117315039e802","type":"text","text":"Saijiki - - poetic seasonal Alma acs ","x":420,"y":160,"width":303,"height":151},
+		{"id":"7532dfc94498d73f","type":"text","text":"[[Haiku and short writings]]","x":420,"y":-60,"width":250,"height":210},
+		{"id":"6202f96f2776a5f4","type":"text","text":"Kigo - Seasonal world","x":420,"y":340,"width":287,"height":145}
+	],
+	"edges":[]
+}

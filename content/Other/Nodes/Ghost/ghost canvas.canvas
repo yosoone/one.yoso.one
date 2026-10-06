@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"5ce73c6a99c03171","type":"text","text":"$3/month","x":-620,"y":-1180,"width":314,"height":72},
+		{"id":"9178ad74c2453392","type":"text","text":"set up stripe\nhttps://ghost.org/resources/managing-your-stripe-account/?ref=admin","x":420,"y":-300,"width":580,"height":283},
+		{"id":"eb7c297d7fb554d1","type":"text","text":"grow\nhttps://ghost.org/resources/first-100-email-subscribers/","x":420,"y":-434,"width":780,"height":134},
+		{"id":"884110b0af3270b7","type":"text","text":"Launch Trial - Acces to All content - excep for some Collector's content and VIP Restricted Area , such as private viewings and high resolution files","x":-620,"y":-1108,"width":459,"height":290},
+		{"id":"c78ae5693a4c1325","type":"text","text":"Greatful Thanks","x":-620,"y":-760,"width":359,"height":203},
+		{"id":"731c78dac379e503","type":"text","text":"Access to All publications and online viewings - Restricted access to VIP Content","x":-78,"y":-1107,"width":433,"height":183},
+		{"id":"15d195f29d630801","type":"text","text":"#### Collector","x":-78,"y":-1249,"width":250,"height":60},
+		{"id":"24063b05262de629","type":"text","text":"$30/month","x":-78,"y":-1179,"width":250,"height":60},
+		{"id":"ef6af53bfc2130c6","type":"text","text":"#### VIP - Patron","x":480,"y":-1259,"width":250,"height":60},
+		{"id":"db61737008be9b24","type":"text","text":"$700/month","x":480,"y":-1189,"width":250,"height":60},
+		{"id":"08cecd1b9d21880e","type":"text","text":"Visual Grace and Stimulation\n\nA humble thank you for your support , Honestly!\n\nAnnual Print for annual subscriptions.","x":-78,"y":-863,"width":350,"height":306},
+		{"id":"9063371bf680f0c3","type":"text","text":"Access to all previews of the work, access to high resolution files","x":480,"y":-1107,"width":437,"height":199},
+		{"id":"1b9e34fdc54357e7","type":"text","text":"Unrestricted Access\n\nSigned Limited edition print, direct to your door.\n\nA greatful thank you! You are a patron of the arts! I can create thanks to your generosity!\n\nChoose","x":460,"y":-863,"width":500,"height":362},
+		{"id":"d95641aa9355710d","type":"text","text":"#### First Jump","x":-620,"y":-1259,"width":344,"height":79},
+		{"id":"2f14809881d68dcf","type":"text","text":"add domain","x":420,"y":-17,"width":250,"height":60},
+		{"id":"7a49232ec1ec0a5b","type":"text","text":"Free","x":-1360,"y":-1258,"width":344,"height":79},
+		{"id":"b56e5883e1a4e644","type":"text","text":"tip\nhttps://yoso-one.ghost.io/#/portal/support","x":-1360,"y":-1141,"width":625,"height":126},
+		{"id":"b283c2ed891cb573","type":"text","text":"One Issue","x":1440,"y":-17,"width":250,"height":60},
+		{"id":"079b53576f7e6112","type":"text","text":"Redirect to this URL after signup for premium membership","x":917,"y":-1261,"width":628,"height":120},
+		{"id":"2da42f28bd374c18","type":"text","text":"Access to gallery","x":1600,"y":-1249,"width":400,"height":94},
+		{"id":"de1df025118b18fb","type":"text","text":"https://yoso-one.ghost.io/softlaunch","x":-190,"y":-1588,"width":590,"height":148},
+		{"id":"c2f9b134cdc90145","type":"text","text":"Support\nhttps://ghost.org/resources/customer-support/#provide-a-contact-email-address","x":420,"y":43,"width":594,"height":285},
+		{"id":"d6696d75e5fdd3d0","type":"text","text":"one tier - first edition","x":-620,"y":-1360,"width":344,"height":101,"color":"1"},
+		{"id":"27caa5d1ef658733","type":"text","text":"https://www.themarginalian.org","x":-620,"y":-96,"width":612,"height":79},
+		{"id":"44a48c843a031329","type":"text","text":"inspurations","x":-620,"y":-188,"width":250,"height":60},
+		{"id":"a0949d7c20b35602","type":"text","text":"addicional payment\nhttps://ghost.org/help/payment-methods/","x":-576,"y":272,"width":498,"height":328},
+		{"id":"d0ff2c5c9cae070f","x":-605,"y":770,"width":597,"height":230,"type":"text","text":"import addresses\nsubstack and so on"}
+	],
+	"edges":[]
+}

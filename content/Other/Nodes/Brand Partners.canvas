@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1dd43dec69cfcb27","type":"text","text":"Brands I could Collaborate with","x":-60,"y":-480,"width":444,"height":64},
+		{"id":"d93c4979f39864e5","type":"text","text":"[[Yoso Sensei]]","x":37,"y":-416,"width":250,"height":60},
+		{"id":"71dc77031bb158cf","type":"text","text":"ricoh","x":37,"y":-140,"width":250,"height":60},
+		{"id":"fe48003cb63dec7b","type":"text","text":"leica","x":-213,"y":-140,"width":250,"height":60},
+		{"id":"f08fed8c0f515a4d","type":"text","text":"swatch","x":287,"y":-140,"width":250,"height":60},
+		{"id":"544b8295c1376bc2","type":"text","text":"wacom","x":537,"y":-140,"width":250,"height":60},
+		{"id":"4219f0ed9fb32c2f","type":"text","text":"[[Yosokuro]]","x":-88,"y":-60,"width":250,"height":60},
+		{"id":"8dc2aeb9301a10ac","type":"text","text":"[[Asahi]]","x":240,"y":-60,"width":250,"height":60},
+		{"id":"af16cd53156b4eef","type":"text","text":"[[Other/Nodes/Dragon]]","x":240,"y":0,"width":250,"height":60},
+		{"id":"4a80aba0b7358ef4","type":"text","text":"[[_Shinsei]]","x":240,"y":60,"width":250,"height":60},
+		{"id":"9bc187dd35aa000e","type":"text","text":"[[Consciousness]]","x":560,"y":-60,"width":250,"height":60},
+		{"id":"49166c66f2275160","x":37,"y":160,"width":250,"height":60,"type":"text","text":"Post on reddit"}
+	],
+	"edges":[]
+}

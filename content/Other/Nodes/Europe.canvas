@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"a4c79673aa8cb135","type":"text","text":"direct","x":-48,"y":-216,"width":172,"height":50,"color":"1"},
+		{"id":"3fd78b6d1a17d52d","type":"text","text":"[[Travel letter planning]]","x":-48,"y":-166,"width":385,"height":95},
+		{"id":"86acc141b4b62778","type":"text","text":"last year vs","x":0,"y":-481,"width":250,"height":60},
+		{"id":"9e18a0b83f8b0adc","type":"text","text":"year ahead budget","x":0,"y":-418,"width":373,"height":55},
+		{"id":"bf6335695e29366d","x":-84,"y":-600,"width":250,"height":60,"type":"text","text":""},
+		{"id":"32c9c425c1d72bbe","type":"text","text":"locations","x":400,"y":-216,"width":250,"height":60},
+		{"id":"c27d31829ce28238","type":"text","text":"denmark","x":400,"y":-156,"width":250,"height":60},
+		{"id":"83e039651564c91b","type":"text","text":"belgium","x":400,"y":-96,"width":250,"height":60},
+		{"id":"bf2752b1b3f62dd3","type":"text","text":"swiss","x":400,"y":-36,"width":250,"height":60},
+		{"id":"03149324820b6f5c","type":"text","text":"finland","x":400,"y":24,"width":250,"height":60},
+		{"id":"25c902982f4088fb","type":"text","text":"italy","x":400,"y":84,"width":250,"height":60},
+		{"id":"f6d982f60c7e0f0a","type":"text","text":"matrix ","x":-260,"y":-421,"width":180,"height":60},
+		{"id":"010f219d1dc890c2","type":"text","text":"com","x":-260,"y":-301,"width":150,"height":50},
+		{"id":"b221bd07010f86af","type":"text","text":"broadcast","x":-260,"y":-216,"width":212,"height":50},
+		{"id":"d0fc5d790f4c0dfd","type":"text","text":"fof","x":-260,"y":-71,"width":250,"height":60},
+		{"id":"437fb778ed50632a","type":"text","text":"event / camp?","x":-260,"y":-11,"width":250,"height":60},
+		{"id":"91101d12230f9aca","type":"text","text":"plan / budget","x":680,"y":-211,"width":250,"height":60},
+		{"id":"6e4fba8cd9cdc8e4","type":"text","text":"expenses updated sheet","x":680,"y":-151,"width":250,"height":85},
+		{"id":"08ebb2fe6d549959","type":"text","text":"doc","x":960,"y":-211,"width":250,"height":60},
+		{"id":"c2aac4c1bfbbbb55","x":-234,"y":-1200,"width":400,"height":400,"type":"file","file":"Other/Nodes/Europe.md"}
+	],
+	"edges":[]
+}

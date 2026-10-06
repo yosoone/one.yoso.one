@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"4eb17f950cb05af7","type":"file","file":"Other/99 Files/Wheel Root.pdf","x":-1083,"y":782,"width":400,"height":400},
+		{"id":"2e39cf4818556d7c","type":"file","file":"Other/99 Files/Wheel.pdf","x":-663,"y":782,"width":400,"height":400},
+		{"id":"7442486021e652d3","type":"file","file":"Other/99 Files/Frustrations.pdf","x":-233,"y":782,"width":400,"height":400},
+		{"id":"28ebcdfac6e0fca3","type":"file","file":"Other/Nodes/Long Term Goals.md","x":-1083,"y":320,"width":400,"height":400},
+		{"id":"fb0d2d8cf97007d1","type":"file","file":"Other/Nodes/Artist Life Long Goals.md","x":-663,"y":320,"width":400,"height":400},
+		{"id":"35ccfe69e895ae82","type":"text","text":"Leading by Example","x":-1130,"y":-580,"width":320,"height":60},
+		{"id":"ee6df6ca7c3feff8","type":"text","text":"Inspire","x":-597,"y":-580,"width":140,"height":60},
+		{"id":"fbe1d32d5c11dc9f","type":"text","text":"practice","x":-348,"y":-580,"width":171,"height":60},
+		{"id":"41a4563f4bf1908c","type":"text","text":"Short Texts","x":-597,"y":-500,"width":210,"height":60},
+		{"id":"26019541383911a3","type":"text","text":"visualise","x":-137,"y":-580,"width":160,"height":60},
+		{"id":"3b29db1a21099f0b","type":"text","text":"refine","x":43,"y":-576,"width":153,"height":56},
+		{"id":"a7cea190d16816cb","type":"text","text":"Dojo","x":238,"y":-580,"width":250,"height":60},
+		{"id":"70ddd78177d1db7c","type":"text","text":"Physical Space","x":238,"y":-500,"width":250,"height":60},
+		{"id":"08a22759e44d9deb","type":"text","text":"Teachings","x":238,"y":-420,"width":250,"height":60},
+		{"id":"b367177d4bde5504","type":"text","text":"schedule","x":-332,"y":-360,"width":173,"height":60},
+		{"id":"ff9dc6aec08bbef1","type":"text","text":"wheel","x":-332,"y":-271,"width":173,"height":51},
+		{"id":"5247e907b6aab550","type":"text","text":"Organic Growth","x":-332,"y":-180,"width":275,"height":60},
+		{"id":"df3079c98b69006f","x":-588,"y":-14,"width":250,"height":60,"type":"text","text":"[[Tao Te Ching]]"},
+		{"id":"1c3505847246b2d4","type":"text","text":"Physical Being","x":-1130,"y":-500,"width":320,"height":60},
+		{"id":"07733209fc38e13a","type":"text","text":"[[Yoso Sensei]]","x":-1130,"y":-420,"width":320,"height":60}
+	],
+	"edges":[]
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d75406e15b863316","x":-467,"y":-547,"width":250,"height":60,"type":"text","text":"content"},
+		{"id":"fb9a28609603eadc","x":-700,"y":-420,"width":358,"height":160,"type":"text","text":"separane srcs and ref?"}
+	],
+	"edges":[]
+}

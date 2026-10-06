@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9b7935f9323983bf","type":"text","text":"1973","x":-500,"y":-280,"width":100,"height":60},
+		{"id":"224c24d9dcbb0f83","type":"text","text":"Birth","x":-500,"y":-200,"width":120,"height":60},
+		{"id":"13ec57c69992a932","type":"text","text":"82","x":-260,"y":-280,"width":80,"height":60},
+		{"id":"6d55e94c033f5fff","type":"text","text":"90","x":-40,"y":-270,"width":75,"height":50},
+		{"id":"dfbc6dfc360fac15","type":"text","text":"94","x":120,"y":-270,"width":79,"height":50},
+		{"id":"1f8903c878f7b0bc","type":"text","text":"01","x":280,"y":-270,"width":74,"height":50},
+		{"id":"f9ff0ac6932dd376","type":"text","text":"08","x":460,"y":-270,"width":81,"height":50},
+		{"id":"348c8edb7f94d585","type":"text","text":"24","x":640,"y":-270,"width":80,"height":60},
+		{"id":"30264a8e855619b6","type":"file","file":"Other/00 Profile/Timeline/past Painting timeline and memories.md","x":541,"y":380,"width":400,"height":400},
+		{"id":"960d23280066e58c","type":"file","file":"Other/Nodes/Consciousness/Consciousness Timeline.md","x":120,"y":380,"width":400,"height":400},
+		{"id":"264023de1ed9f09c","type":"file","file":"Other/00 Profile/Life Timeline.md","x":-305,"y":360,"width":400,"height":400},
+		{"id":"44111a2295bc621d","type":"file","file":"00 Projects/Timeline/Timeline.md","x":-720,"y":360,"width":400,"height":400},
+		{"id":"71674cec131c70aa","type":"file","file":"Other/99 Files/Timeline b0_3.pdf","x":-720,"y":800,"width":400,"height":400},
+		{"id":"d74e8449984fae8a","type":"text","text":"[[Death]]","x":809,"y":-270,"width":132,"height":60},
+		{"id":"18980b8ad453f792","type":"text","text":"[[Meditation on Death]]","x":809,"y":-180,"width":322,"height":50},
+		{"id":"1913bb40167e065e","x":-500,"y":-20,"width":250,"height":60,"type":"text","text":"[[Timeline]]"}
+	],
+	"edges":[]
+}

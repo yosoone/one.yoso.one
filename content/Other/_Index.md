@@ -6,8 +6,8 @@ created: 2026-05-31
 modified: 2026-10-06T05:14:47.616Z
 published: 2026-05-31
 tags:
-  - t
-  - hidden
+  - "#t"
+  - "#hidden"
 ---
 
 Intention before form…

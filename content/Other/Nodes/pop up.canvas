@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"97cac7b9fc6787ff","type":"file","file":"Other/Projects/Yosokuro/Yosokuro.md","x":-720,"y":-120,"width":400,"height":400},
+		{"id":"69cd6bb4a2c301c5","type":"file","file":"Other/Nodes/Yoso Clothing.md","x":-300,"y":-120,"width":400,"height":400},
+		{"id":"3f9d07ab1ba01871","type":"file","file":"Other/Projects/Tattoo/live tattoo event.md","x":120,"y":-120,"width":400,"height":400},
+		{"id":"2d985076a8755446","x":560,"y":-120,"width":400,"height":400,"type":"file","file":"Other/Projects/AV.md"},
+		{"id":"8d2cacd694fb5dc3","x":-720,"y":340,"width":400,"height":400,"type":"file","file":"Other/Nodes/Audio MIX.md"},
+		{"id":"cd38fcad1ef90898","x":-720,"y":-520,"width":250,"height":60,"type":"text","text":"tee cap"},
+		{"id":"1b8f4a597a2d93b8","x":-720,"y":-610,"width":250,"height":60,"type":"text","text":"Mauvais Eleve"},
+		{"id":"a81cdd904e226e94","x":-720,"y":-460,"width":250,"height":60,"type":"text","text":"cards"},
+		{"id":"0e0a376101c36225","x":-720,"y":-400,"width":250,"height":60,"type":"text","text":"stickers"},
+		{"id":"178ec14e7b27bd59","type":"text","text":"pop up canvas","x":-25,"y":-740,"width":250,"height":50,"color":"2"},
+		{"id":"3b7dadd4951cb2db","x":-320,"y":-610,"width":468,"height":131,"type":"text","text":"waterfall (s) framed\nbig and small?"},
+		{"id":"67f4b1b2ae569d20","x":-320,"y":-479,"width":250,"height":60,"type":"text","text":"fujifilm"},
+		{"id":"6a730cd062a5f825","x":-320,"y":-400,"width":250,"height":60,"type":"text","text":"QR Poster?"},
+		{"id":"da08a8409fd48dbd","x":225,"y":-604,"width":250,"height":60,"type":"text","text":"quotes?"},
+		{"id":"86a61fb1b58ea4f6","type":"text","text":"Zine?","x":225,"y":-539,"width":250,"height":60},
+		{"id":"57a94644194d62b5","x":557,"y":-610,"width":327,"height":174,"type":"text","text":"playlist\nyoutube\napple music"},
+		{"id":"ddbbb42c60dc5928","x":540,"y":-390,"width":320,"height":50,"type":"text","text":"aim promo and sale?"}
+	],
+	"edges":[]
+}

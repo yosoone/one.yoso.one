@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Sources"
+    order:
+      - file.fullname
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: title
+        direction: ASC
+    columnSize:
+      file.fullname: 773

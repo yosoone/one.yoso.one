@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"e396700f8f924ec9","type":"text","text":"[[Yosokuro]]","x":-420,"y":-260,"width":250,"height":60},
+		{"id":"421c1ccf8bc58343","type":"text","text":"[[_Shinsei|Shinsei]]","x":-420,"y":-320,"width":250,"height":60},
+		{"id":"3f62a9789bac68df","type":"text","text":"[[obsidian publish]]","x":-420,"y":-200,"width":250,"height":60},
+		{"id":"15eb2a708a15559d","type":"text","text":"[[Article]]","x":-420,"y":-140,"width":250,"height":60},
+		{"id":"7dfc5e430bd99859","type":"text","text":"Track","x":-420,"y":-80,"width":250,"height":60},
+		{"id":"dca5bebbf124f32a","type":"text","text":"eve","x":-720,"y":-80,"width":250,"height":60},
+		{"id":"cd6faf797232d9db","x":-100,"y":-320,"width":800,"height":60,"type":"text","text":"Sketches - research - comp - concept - digital idea - fresco - clip studio -12 seasons - 12 concepts"},
+		{"id":"f59898faf49af7e3","x":-100,"y":-260,"width":800,"height":60,"type":"text","text":"Print test - select"},
+		{"id":"ebb03df7725cd983","x":-100,"y":-200,"width":250,"height":60,"type":"text","text":"Set up select test quartz"},
+		{"id":"0d4774e20905f8ed","x":-100,"y":-140,"width":250,"height":60,"type":"text","text":"Unite in kokoro?"},
+		{"id":"821d6a2ff69c12c2","x":-100,"y":-80,"width":250,"height":60,"type":"text","text":"Dub track"}
+	],
+	"edges":[]
+}

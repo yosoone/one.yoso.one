@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"73fa5fab49ff4c0f","type":"text","text":"[[Bibliography]]","x":-1046,"y":-532,"width":250,"height":60},
+		{"id":"34fc78a7ce75e80f","type":"text","text":"[[Bibliography]]","x":-1340,"y":-532,"width":250,"height":60},
+		{"id":"f06dc2fc50a3a9c1","type":"text","text":"book ","x":-749,"y":-532,"width":127,"height":60},
+		{"id":"c630c16473ee7ec9","type":"text","text":"properties","x":-560,"y":-532,"width":250,"height":60},
+		{"id":"8da968d3cec11b37","type":"text","text":"series","x":-560,"y":-307,"width":250,"height":50},
+		{"id":"27c15c8c6e85b58a","type":"text","text":"date","x":-560,"y":-250,"width":250,"height":50},
+		{"id":"db8bda8c20c035ce","type":"text","text":"publisher","x":-560,"y":-200,"width":250,"height":50},
+		{"id":"1842058351981562","type":"text","text":"isbn","x":-560,"y":-145,"width":250,"height":50},
+		{"id":"79ce0adc618cd157","type":"text","text":"title","x":-560,"y":-427,"width":250,"height":60},
+		{"id":"1e51edd3af7175e0","type":"text","text":"author","x":-560,"y":-367,"width":250,"height":60},
+		{"id":"fb98e78df3a9c3a7","type":"text","text":"Note Content","x":-260,"y":-532,"width":250,"height":60},
+		{"id":"e986e10333af9e44","type":"text","text":"quotes","x":-220,"y":-417,"width":171,"height":50},
+		{"id":"04f006704fd9daa7","type":"text","text":"notes","x":-24,"y":-417,"width":210,"height":51},
+		{"id":"5bb1272a21ba9f47","type":"text","text":"generated ideas","x":-220,"y":-342,"width":260,"height":60},
+		{"id":"acced3278cba3e12","type":"text","text":"integrate yoso's curriculum","x":-220,"y":-255,"width":392,"height":61},
+		{"id":"b5e252def54f8eca","type":"text","text":"link back to book","x":220,"y":-258,"width":333,"height":66},
+		{"id":"12ad6e85dfbf7686","type":"text","text":"articles\nvideon\nweb pages\npictures\nall saved in concext\netc","x":-1340,"y":-342,"width":250,"height":402,"color":"5"},
+		{"id":"9ee692018cf67cc1","type":"text","text":"tags","x":-560,"y":-80,"width":250,"height":60},
+		{"id":"83531a148ffd6c01","type":"text","text":"Apple Books","x":-560,"y":0,"width":250,"height":60},
+		{"id":"3c90cb5ad0bd9466","type":"text","text":"Obsidian","x":-560,"y":80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"65fadcb47420654b","fromNode":"c630c16473ee7ec9","fromSide":"bottom","toNode":"79ce0adc618cd157","toSide":"top"},
+		{"id":"0a5f17211f9c3532","fromNode":"f06dc2fc50a3a9c1","fromSide":"right","toNode":"c630c16473ee7ec9","toSide":"left"},
+		{"id":"31e00c236b5394f4","fromNode":"73fa5fab49ff4c0f","fromSide":"right","toNode":"f06dc2fc50a3a9c1","toSide":"left"},
+		{"id":"21c436b22f7413ce","fromNode":"34fc78a7ce75e80f","fromSide":"right","toNode":"73fa5fab49ff4c0f","toSide":"left"},
+		{"id":"bf0b7cbf5709a8cb","fromNode":"c630c16473ee7ec9","fromSide":"right","toNode":"fb98e78df3a9c3a7","toSide":"left"},
+		{"id":"c4056581c1eb3dc2","fromNode":"e986e10333af9e44","fromSide":"right","toNode":"04f006704fd9daa7","toSide":"left"},
+		{"id":"6810526e3acfa18d","fromNode":"fb98e78df3a9c3a7","fromSide":"bottom","toNode":"e986e10333af9e44","toSide":"top"},
+		{"id":"071f5044557d8662","fromNode":"b5e252def54f8eca","fromSide":"left","toNode":"acced3278cba3e12","toSide":"right"}
+	]
+}

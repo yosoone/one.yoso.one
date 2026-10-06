@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"Now","id":"697bf832cb953221","x":40,"y":300,"width":250,"height":60},
+		{"type":"text","text":"No","id":"aa6302c83386274e","x":360,"y":300,"width":250,"height":60},
+		{"type":"text","text":"Come back to the present","id":"ea5ccd1801a0d70b","x":348,"y":60,"width":262,"height":142},
+		{"type":"text","text":"Yes","id":"038d0ce82a00aed2","x":40,"y":400,"width":250,"height":60},
+		{"type":"text","text":"Be fully Zen","id":"8e2999c7bf060814","x":40,"y":529,"width":250,"height":60},
+		{"type":"text","text":"The eternal is now","id":"9fbc00ed7b606b64","x":371,"y":400,"width":239,"height":100},
+		{"id":"adb9f5fc3fcab766","x":671,"y":688,"width":250,"height":60,"type":"text","text":"I.O."},
+		{"id":"ff7c98a6db46cd5a","x":1039,"y":689,"width":250,"height":60,"type":"text","text":"Output"},
+		{"id":"13f1b1ecaa2a987d","x":1439,"y":690,"width":250,"height":60,"type":"text","text":"Feedback?"},
+		{"id":"099482b22f7ea0dd","x":1439,"y":500,"width":250,"height":60,"type":"text","text":"No"},
+		{"id":"b1c7f27220ded44e","x":1440,"y":360,"width":280,"height":70,"type":"text","text":" Chase or Let go!"},
+		{"id":"76462ca3a6ae0eda","x":667,"y":854,"width":250,"height":60,"type":"text","text":"Input"},
+		{"id":"b108469fd01895db","x":1432,"y":862,"width":250,"height":60,"type":"text","text":"Yes"}
+	],
+	"edges":[
+		{"id":"9acb23aa24a18322","fromNode":"697bf832cb953221","fromSide":"bottom","toNode":"038d0ce82a00aed2","toSide":"top"},
+		{"id":"46fc35ae1fa8da02","fromNode":"697bf832cb953221","fromSide":"right","toNode":"aa6302c83386274e","toSide":"left"},
+		{"id":"55211c15ab7275aa","fromNode":"aa6302c83386274e","fromSide":"top","toNode":"ea5ccd1801a0d70b","toSide":"bottom"},
+		{"id":"0fb81c6df6e13a6d","fromNode":"038d0ce82a00aed2","fromSide":"bottom","toNode":"8e2999c7bf060814","toSide":"top"},
+		{"id":"a9b0aed97a9437dc","fromNode":"038d0ce82a00aed2","fromSide":"right","toNode":"9fbc00ed7b606b64","toSide":"left"},
+		{"id":"f827cbee9d8ca597","fromNode":"adb9f5fc3fcab766","fromSide":"right","toNode":"ff7c98a6db46cd5a","toSide":"left"},
+		{"id":"d27c5186c0e95809","fromNode":"ff7c98a6db46cd5a","fromSide":"right","toNode":"13f1b1ecaa2a987d","toSide":"left"},
+		{"id":"4ef303dacea915bb","fromNode":"13f1b1ecaa2a987d","fromSide":"top","toNode":"099482b22f7ea0dd","toSide":"bottom"},
+		{"id":"de3129500653ab54","fromNode":"099482b22f7ea0dd","fromSide":"top","toNode":"b1c7f27220ded44e","toSide":"bottom"},
+		{"id":"2ea723da1c393552","fromNode":"adb9f5fc3fcab766","fromSide":"bottom","toNode":"76462ca3a6ae0eda","toSide":"top"},
+		{"id":"35e0a5109f42929e","fromNode":"13f1b1ecaa2a987d","fromSide":"bottom","toNode":"b108469fd01895db","toSide":"top"},
+		{"id":"532307c622be28a2","fromNode":"b108469fd01895db","fromSide":"left","toNode":"76462ca3a6ae0eda","toSide":"right"}
+	]
+}

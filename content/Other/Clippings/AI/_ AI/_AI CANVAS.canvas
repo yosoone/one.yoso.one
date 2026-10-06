@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"b0675c04efa4981c","type":"text","text":"Ethics","x":-360,"y":440,"width":250,"height":60},
+		{"id":"dc9e281246f11f5d","type":"text","text":"Nature","x":-40,"y":440,"width":250,"height":60},
+		{"id":"bde5270917d7f8a9","type":"text","text":"Energy","x":296,"y":440,"width":250,"height":60},
+		{"id":"b331664374b24805","type":"text","text":"Consciousness","x":-71,"y":560,"width":313,"height":65},
+		{"id":"3a54afcbfec0d943","type":"text","text":"Dopamine","x":-40,"y":700,"width":250,"height":60},
+		{"id":"3a4d22a8c6700346","type":"text","text":"A Brain or a cell?","x":-92,"y":820,"width":408,"height":66},
+		{"id":"ecf46ba7abcacde4","type":"text","text":"Role of the Artist","x":-440,"y":-400,"width":294,"height":59},
+		{"id":"c6306e3b3c219da4","type":"text","text":"Body","x":-40,"y":-400,"width":250,"height":60},
+		{"id":"e45ad555d6244fa0","type":"text","text":"Interface","x":316,"y":-400,"width":250,"height":60},
+		{"id":"a2af87541c07ec11","type":"text","text":"Painting","x":-217,"y":-300,"width":250,"height":60},
+		{"id":"fd97fe3203bb6546","type":"text","text":"Writing","x":140,"y":-300,"width":250,"height":60},
+		{"id":"f86ba7a2f0294e21","type":"text","text":"Projects","x":-35,"y":-180,"width":250,"height":60},
+		{"id":"5827d57fe7185e84","type":"text","text":"108 pearls","x":-217,"y":20,"width":250,"height":60},
+		{"id":"58fcddc72f738237","type":"text","text":"Yoso Sensei","x":90,"y":20,"width":250,"height":60},
+		{"id":"124091e7fd04d7a9","type":"text","text":"Spectrum","x":-71,"y":-80,"width":287,"height":60},
+		{"id":"823076c115eb5f52","type":"text","text":"https://www.youtube.com/watch?v=milPEW8XUK0","x":-296,"y":231,"width":512,"height":129},
+		{"id":"12dd41a6a238516f","type":"text","text":"gemini tricks","x":-296,"y":171,"width":250,"height":60},
+		{"id":"5d48e4c2873d8e60","x":421,"y":266,"width":250,"height":60,"type":"text","text":"soul.md"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,9 @@
+views:
+  - type: kanban
+    name: Table
+    filters:
+      and:
+        - status == "draft"
+    groupBy:
+      property: status
+      direction: ASC

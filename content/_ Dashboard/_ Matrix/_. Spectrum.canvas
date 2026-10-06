@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"1914a3350c6c01d3","type":"text","text":"peaceful flow","x":-80,"y":-160,"width":250,"height":60},
+		{"id":"ba2a965e2582c3a0","type":"text","text":"morning meditation","x":-520,"y":-155,"width":300,"height":50},
+		{"id":"f46ec0e016d58961","type":"text","text":"[[Cultivate your practice]]","x":-139,"y":-320,"width":369,"height":80,"color":"4"},
+		{"id":"156719aac19c718c","type":"text","text":"[[shinsei show]]","x":-79,"y":-400,"width":250,"height":60},
+		{"id":"1330637817b53662","type":"file","file":"Other/99 Files/the-visible-light-spectrum-2699036_FINAL2-c0b0ee6f82764efdb62a1af9b9525050.webp","x":-170,"y":-880,"width":400,"height":267},
+		{"id":"ecc4376aea3626ed","type":"text","text":"Listen to the voice within","x":-542,"y":-85,"width":369,"height":50,"color":"2"},
+		{"id":"062b206fd982e8cd","type":"text","text":"hand written","x":-473,"y":81,"width":250,"height":60},
+		{"id":"f1a4ca0143c66a69","type":"text","text":"one [[Haiku]] a day","x":-482,"y":1,"width":250,"height":60,"color":"4"},
+		{"id":"d2e6b75db5f04615","type":"text","text":"precision and intention for each task, flow state","x":-79,"y":-70,"width":250,"height":231},
+		{"id":"8121f007f23efe32","type":"text","text":"Do not let interfaces and design, break your [[Flow]]","x":440,"y":-145,"width":540,"height":90},
+		{"id":"4d42825b82215b4f","type":"text","text":"ipad, vide, hand notes and sketches","x":1040,"y":-145,"width":250,"height":215},
+		{"id":"faf989a3e74eb9e3","type":"text","text":"[[Spectrum]]","x":440,"y":455,"width":250,"height":60},
+		{"id":"7a6217665f357da2","type":"text","text":"[[Colour]]","x":440,"y":530,"width":250,"height":60,"color":"3"},
+		{"id":"e3e19433a13a2479","type":"text","text":"from chaos to harmony ","x":440,"y":280,"width":250,"height":120},
+		{"id":"9fd97f51025897b4","type":"text","text":"timeline","x":440,"y":680,"width":250,"height":60},
+		{"id":"f01580a91f0440b7","type":"text","text":"which to promote harmony, but demo the evolution, compare and choos.","x":440,"y":790,"width":250,"height":332},
+		{"id":"4be2ff647569b0ec","type":"text","text":"sun pink abscrac edges","x":730,"y":460,"width":250,"height":265},
+		{"id":"af43ee6e16160fbe","type":"text","text":"calm pure [[Energy]]","x":-79,"y":220,"width":319,"height":60,"color":"3"},
+		{"id":"0c85efcb98b00645","type":"text","text":"Which energy do you wish to see and feel in the world?","x":-132,"y":310,"width":440,"height":90},
+		{"id":"16c897100259edad","type":"text","text":"digital","x":-37,"y":1000,"width":250,"height":60},
+		{"id":"3ff287ca9eae9ae4","type":"text","text":"glitchy","x":115,"y":1122,"width":250,"height":60},
+		{"id":"6196d9a94ac1ddb4","type":"text","text":"open space communication","x":-305,"y":1122,"width":386,"height":118},
+		{"id":"a2332cdf575f48ce","type":"text","text":"AI, Objkt, Portal that reveal spirits","x":115,"y":1240,"width":250,"height":236},
+		{"id":"b2e2e7ea0154c762","type":"text","text":"should we reveal the invisible?","x":115,"y":1520,"width":250,"height":220},
+		{"id":"b7d23608f95d325d","type":"text","text":"abscraction?","x":115,"y":1760,"width":250,"height":60},
+		{"id":"d93417124049966d","type":"text","text":"what feeling does it give you?","x":-132,"y":425,"width":440,"height":90},
+		{"id":"dadf7a66fde6e253","type":"text","text":"journal\nsummary - essence","x":-758,"y":393,"width":372,"height":120},
+		{"id":"09f7a0eef3b5f4fb","type":"text","text":"voice recording","x":-767,"y":890,"width":250,"height":60},
+		{"id":"9cb106635e3e45e7","type":"text","text":"wild sketches","x":-767,"y":970,"width":250,"height":60},
+		{"id":"8d5cedf5a96d0083","type":"text","text":"picture of the day","x":-767,"y":1050,"width":347,"height":50},
+		{"id":"440e6fc7345d08d2","type":"text","text":"members full archives","x":-767,"y":777,"width":419,"height":80},
+		{"id":"f2841f8b1580fdd7","type":"text","text":"re-collect your day","x":-758,"y":680,"width":372,"height":60},
+		{"id":"bbefbd9a5d6a141b","type":"text","text":"https://thehaikufoundation.org/new-to-the-haiku-foundation/","x":-542,"y":164,"width":369,"height":146},
+		{"id":"20839edcc318a3ba","type":"text","text":"[[Tattoo]]","x":-79,"y":-460,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f936adc43fa8dc1c","fromNode":"1914a3350c6c01d3","fromSide":"left","toNode":"ba2a965e2582c3a0","toSide":"right"}
+	]
+}

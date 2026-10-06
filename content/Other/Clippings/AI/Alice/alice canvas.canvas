@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0754497a88df6baf","type":"text","text":"claude","x":-100,"y":-260,"width":250,"height":60},
+		{"id":"bce7427775c0838a","type":"text","text":"open ai engine","x":220,"y":-260,"width":250,"height":60},
+		{"id":"bddf297deb7ab222","type":"text","text":"deepseek","x":-420,"y":-260,"width":250,"height":60},
+		{"id":"0c3c8458510f3d80","type":"text","text":"economy ecology","x":-322,"y":-100,"width":472,"height":80},
+		{"id":"0d429fbcd579990d","type":"text","text":"personality","x":260,"y":-100,"width":250,"height":60},
+		{"id":"184f5c82e0e9f655","x":-213,"y":182,"width":250,"height":60,"type":"text","text":"alice"},
+		{"id":"062ccc35709990ed","x":-295,"y":320,"width":450,"height":200,"type":"text","text":"every time alice says something, the rabbit reacts like a voice in her head"}
+	],
+	"edges":[
+		{"id":"88c924cabd72da5a","fromNode":"184f5c82e0e9f655","fromSide":"bottom","toNode":"062ccc35709990ed","toSide":"top"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"49fc058cfb6ed96d","x":-200,"y":-220,"width":160,"height":50,"type":"text","text":"Buddhism"},
+		{"id":"c56a21d195f48dfc","x":-200,"y":-270,"width":160,"height":50,"type":"text","text":"Origins?"},
+		{"id":"937ed72f9ada05e4","x":40,"y":-245,"width":209,"height":50,"type":"text","text":"Universal Translation"},
+		{"id":"cc6f4686df6e2091","x":320,"y":-245,"width":189,"height":50,"type":"text","text":"Modern Language"},
+		{"id":"5a8186302f2ae044","x":329,"y":-20,"width":180,"height":50,"type":"text","text":"Virtue"},
+		{"id":"78bbcb94440692c1","x":329,"y":30,"width":180,"height":50,"type":"text","text":"oxford Manual"}
+	],
+	"edges":[]
+}

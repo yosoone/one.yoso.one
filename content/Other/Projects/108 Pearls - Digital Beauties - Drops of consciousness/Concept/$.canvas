@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b1e3ca84055b09e0","type":"group","x":40,"y":0,"width":980,"height":100,"label":"ghost"},
+		{"id":"71ff607ba2c6dd9d","type":"text","text":"series","x":60,"y":20,"width":250,"height":60},
+		{"id":"71238d0193b02b20","type":"text","text":"new images","x":340,"y":20,"width":250,"height":60},
+		{"id":"713dff671ffb1b25","type":"text","text":"[[Prompts Canvas.canvas|Prompts Canvas]]","x":620,"y":20,"width":340,"height":60},
+		{"id":"10c3f57ce74e7dbd","type":"text","text":"select","x":340,"y":180,"width":250,"height":60},
+		{"id":"21b880815326a114","type":"text","text":"Edit to Best","x":665,"y":180,"width":250,"height":60},
+		{"id":"86355045207b398b","type":"text","text":"sign","x":1020,"y":180,"width":250,"height":60,"color":"1"},
+		{"id":"a1f7101cbb2a34d6","type":"text","text":"first pack","x":1700,"y":180,"width":250,"height":60},
+		{"id":"ef598d0862b6e22e","type":"text","text":"post","x":1360,"y":180,"width":250,"height":60},
+		{"id":"05e8283c59cc9af8","x":60,"y":-540,"width":250,"height":60,"type":"text","text":"Story"}
+	],
+	"edges":[]
+}

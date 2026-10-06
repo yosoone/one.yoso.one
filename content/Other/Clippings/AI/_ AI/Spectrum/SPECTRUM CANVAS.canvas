@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"b5d0e3a00bae4d89","type":"text","text":"The Grunts","x":180,"y":100,"width":250,"height":60},
+		{"id":"f623362511971978","type":"text","text":"Economy","x":180,"y":0,"width":250,"height":60},
+		{"id":"724f1f3a792f98a0","type":"text","text":"AI","x":180,"y":-120,"width":250,"height":60},
+		{"id":"4c9c8be07b577e15","type":"text","text":"Creativity","x":-380,"y":-109,"width":250,"height":60},
+		{"id":"e9554ab90c1df373","type":"text","text":"Urge","x":-380,"y":-46,"width":250,"height":60},
+		{"id":"b848229d1b98e8cb","type":"text","text":"Stream","x":-100,"y":-106,"width":250,"height":60},
+		{"id":"c4f722450d1ce142","type":"text","text":"CHAOS CONSCIOUSNESS","x":-200,"y":-248,"width":590,"height":50},
+		{"id":"2855e5e415a16a24","type":"text","text":"Surrealism","x":-100,"y":-46,"width":250,"height":60},
+		{"id":"2c0f982523c05873","type":"text","text":"Culture","x":480,"y":-120,"width":250,"height":60},
+		{"id":"5d39ae06bd4dd59c","type":"text","text":"Role of artist","x":480,"y":-308,"width":250,"height":60},
+		{"id":"c85d39ee228a6682","type":"text","text":"Hallucinations ","x":120,"y":-426,"width":250,"height":60},
+		{"id":"f6c0fe705f5afa33","type":"text","text":"https://www.perplexity.ai/search/role-of-artists-as-commentator-QNsCXsRyR3GQJdHjag6.0Q","x":480,"y":-648,"width":214,"height":208},
+		{"id":"68d2c34cf5be8f82","type":"text","text":"Respect for nature\nSigns - 08.03","x":-336,"y":-440,"width":361,"height":88}
+	],
+	"edges":[]
+}

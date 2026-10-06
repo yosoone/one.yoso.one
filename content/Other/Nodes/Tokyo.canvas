@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6ff24c117e4cbdf0","type":"text","text":"Tokyo\n\nASAKUSA\nSlippers\nAsakusa, manami and senpai\n\nKent tattoo?\nTattoo Museum\nYsuke Friend tebori\n\nnichome gay\n\nTAKASHii\n\nguesthouse","x":-220,"y":-440,"width":320,"height":860},
+		{"id":"70ecd6d1274f7480","type":"text","text":"Flight to Tokyo left side seat","x":156,"y":-2,"width":250,"height":60},
+		{"id":"43de0fa48f22622f","x":172,"y":-263,"width":248,"height":143,"type":"text","text":"https://kakejikuya.com/en/blogs/news/about-custom-orders"},
+		{"id":"eb9c12025889ef05","x":172,"y":-323,"width":250,"height":60,"type":"text","text":"Shibuya"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"f1ac17eae6e4773a","x":-260,"y":0,"width":120,"height":50,"type":"text","text":"Master"},
+		{"id":"e0497d42a4c24906","x":-120,"y":80,"width":250,"height":60,"type":"text","text":"Limiter"},
+		{"id":"8c11d673d0c9fdb4","x":-120,"y":0,"width":250,"height":60,"type":"text","text":"Mix Over Mastering"},
+		{"id":"43575e2149a64a21","x":-280,"y":260,"width":250,"height":60,"type":"text","text":"Tips"},
+		{"id":"bfd38804eaee871a","x":-211,"y":355,"width":250,"height":60,"type":"text","text":"https://www.youtube.com/watch?v=AQ-0MHT-lAU&list=PLfCbWqYmZPVkMgn_H1DTQcGoqrXokH2gr"},
+		{"id":"544876e38eb24e3a","x":-120,"y":160,"width":250,"height":60,"type":"text","text":"L2 Limiter - Fab Filten - ALmost Clipping Preset"},
+		{"id":"5ef0bd0527922697","x":-120,"y":-180,"width":250,"height":60,"type":"text","text":"Create Rendered Version\nin case plugins breaks"},
+		{"id":"327972f2460669fb","x":-214,"y":-468,"width":250,"height":60,"type":"text","text":"DuB Echo"},
+		{"id":"a47e34d1ef583e98","x":36,"y":-468,"width":275,"height":169,"type":"text","text":"https://www.youtube.com/watch?v=2XMWPQmSBOw&list=PLfCbWqYmZPVkMgn_H1DTQcGoqrXokH2gr&index=7"},
+		{"id":"cb0a7cdb71c4bf61","x":-280,"y":580,"width":250,"height":60,"type":"text","text":"Release"},
+		{"id":"563f0b6efa597fb1","x":-280,"y":640,"width":250,"height":60,"type":"text","text":"Headphone Mix"}
+	],
+	"edges":[]
+}

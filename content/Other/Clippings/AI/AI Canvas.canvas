@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2d8126a1f513968c","x":-480,"y":-320,"width":280,"height":60,"type":"text","text":"Agents - project"},
+		{"id":"82729e246ab69a32","x":-480,"y":-220,"width":250,"height":60,"type":"text","text":"obsidian"},
+		{"id":"de8543ce5931d3e7","x":-480,"y":-140,"width":250,"height":60,"type":"text","text":"profile"},
+		{"id":"af954140a4eae9be","x":-480,"y":20,"width":250,"height":60,"type":"text","text":"accounts?"},
+		{"id":"b9eed0c5afda327b","x":-100,"y":-40,"width":250,"height":60,"type":"text","text":"dharma"},
+		{"id":"f4699de5682d9420","x":-100,"y":-120,"width":250,"height":60,"type":"text","text":"shinsei"},
+		{"id":"0fcf52b4cc96c6f9","x":-100,"y":-220,"width":250,"height":60,"type":"text","text":"daily notes"},
+		{"id":"bcfc49745e40f901","x":-100,"y":120,"width":250,"height":60,"type":"text","text":"yosokuro"},
+		{"id":"6c44fa7a785a9020","x":-480,"y":180,"width":250,"height":60,"type":"text","text":"token culture"}
+	],
+	"edges":[]
+}

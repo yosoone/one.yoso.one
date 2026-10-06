@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"56f3485ea3bd13bb","x":-340,"y":-340,"width":250,"height":60,"type":"text","text":"fear"},
+		{"id":"37df50d167f9b13e","x":95,"y":-340,"width":250,"height":60,"type":"text","text":"love"},
+		{"id":"2acaa6afd1884d3f","x":-180,"y":-220,"width":400,"height":400,"type":"file","file":"_ Dojo/Practice/Reiki/00 Online/_Reiki Clean up!.md"}
+	],
+	"edges":[]
+}
