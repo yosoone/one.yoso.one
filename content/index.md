@@ -1,8 +1,16 @@
 ---
-title: Welcome
 publish: true
+permalink: /index.md
+created: 2026-09-10T08:22:46.000Z
+modified: 2026-10-06T04:51:30.421Z
+published: 2026-10-06T04:51:30.421Z
 ---
 
-Welcome to your Quartz site! This is your home page.
+_Wa no kokoro_ (和の心, the heart of harmony
+Cultivation of the heart and harmony.
 
-Edit this note in Obsidian, then publish it with Quartz Syncer.
+You are your own master!
+
+# Unique Notes
+
+[[_Unique Notes Timeline|Unique Notes Timeline]]
