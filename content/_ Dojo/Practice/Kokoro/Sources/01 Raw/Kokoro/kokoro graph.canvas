@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"deb5f928c068096b","x":-260,"y":140,"width":250,"height":60,"type":"text","text":"death"},
+		{"id":"372274f32793b6ae","x":-260,"y":80,"width":250,"height":60,"type":"text","text":"palliative care"},
+		{"id":"3ad3a66c53ebbc50","x":-260,"y":-640,"width":320,"height":60,"type":"text","text":"known definition"},
+		{"id":"2117f7c9c61e8ee2","x":-260,"y":-100,"width":250,"height":60,"type":"text","text":"education"},
+		{"id":"cb64f72d5acd0083","x":-260,"y":-40,"width":338,"height":70,"type":"text","text":"body mind theory"},
+		{"id":"225e24298de06297","x":-260,"y":200,"width":656,"height":202,"type":"text","text":"https://consensus.app/search/end-of-life-spirituality-japan/nG9_r2xpQ2ip12vDhcewJQ/?utm_source=share&utm_medium=clipboard"},
+		{"id":"a390ba953b8d3b97","x":865,"y":30,"width":250,"height":60,"type":"text","text":"Focusing"},
+		{"id":"6bf924c68e3f2bf9","x":220,"y":-540,"width":250,"height":60,"type":"text","text":"buddhism"},
+		{"id":"4df155a8a36d9197","x":865,"y":-65,"width":250,"height":60,"type":"text","text":"shinsei"},
+		{"id":"de83337c43badb34","x":1115,"y":30,"width":250,"height":60,"type":"text","text":"reiki"}
+	],
+	"edges":[]
+}

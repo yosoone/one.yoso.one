@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"85de972f1883cc8a","x":-234,"y":-395,"width":250,"height":60,"type":"text","text":"Mind"},
+		{"id":"10195e5dcbe9e26d","x":-120,"y":-200,"width":340,"height":60,"type":"text","text":"[[Guarding the Senses]]"},
+		{"id":"6fc6193cfbe72366","x":220,"y":-140,"width":250,"height":60,"type":"text","text":"Pleasure/Lust"},
+		{"id":"07d5efb67c913f4d","x":470,"y":-80,"width":250,"height":60,"type":"text","text":"Nymph"}
+	],
+	"edges":[]
+}

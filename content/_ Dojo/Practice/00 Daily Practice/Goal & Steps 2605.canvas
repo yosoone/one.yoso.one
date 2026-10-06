@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"814dc68a9068c1fe","type":"group","x":-900,"y":-1280,"width":1360,"height":980,"label":"Dojo"},
+		{"id":"2be80f9d9e148b98","type":"text","text":"[[Dojo]]","x":-880,"y":-1260,"width":250,"height":60,"color":"3"},
+		{"id":"e50c524d67d70343","type":"text","text":"[[Unite in Kokoro - 心]]","x":-630,"y":-1260,"width":250,"height":130},
+		{"id":"073a0d1fc06937be","type":"text","text":"[[The Tibetan Book of the Dead]]","x":-626,"y":-740,"width":435,"height":53},
+		{"id":"12fb7da103286915","type":"text","text":"focus on describing practice - according to your experience","x":-380,"y":-1260,"width":320,"height":160},
+		{"id":"af19d67673658c7b","type":"text","text":"Notes and Reflections","x":-514,"y":-687,"width":374,"height":53},
+		{"id":"704691d1adbbe81c","type":"text","text":"Apple Book","x":-185,"y":-740,"width":250,"height":53},
+		{"id":"7fcd8f49ba4bc593","type":"text","text":"[[_ Dojo/Practice/00 Daily Practice/00 Morning Practice/00 Sources/Morning Practice]]","x":-880,"y":-1020,"width":320,"height":85},
+		{"id":"7fe64f547ec84035","type":"text","text":"[[Morning Cleaning]]","x":-560,"y":-1020,"width":302,"height":50},
+		{"id":"668eddafdeac1c93","type":"text","text":"[[_Shinsei]]","x":-880,"y":-825,"width":250,"height":60},
+		{"id":"4603751ffae2ca4e","type":"text","text":"[[Transcending Madness]]","x":-626,"y":-795,"width":435,"height":53},
+		{"id":"b67818a93d4c3ed0","type":"text","text":"sacred energy","x":-60,"y":-1260,"width":250,"height":60,"color":"6"},
+		{"id":"8caf1fc73c2f2d0d","type":"text","text":"[[Meditation on Death]]","x":-514,"y":-920,"width":309,"height":64},
+		{"id":"0fbd04cc8fa3c595","type":"text","text":"floor plan fun\narchitect vision","x":190,"y":-1260,"width":250,"height":120},
+		{"id":"ca63598a19a23368","type":"text","text":"[[Meditation]]","x":-560,"y":-970,"width":245,"height":50},
+		{"id":"7035c9a3ac40157b","type":"text","text":"Quotes and passages Obsdn","x":-140,"y":-634,"width":500,"height":50},
+		{"id":"5f37aaab9e84c152","type":"text","text":"Notes on Rmkbl","x":-140,"y":-687,"width":275,"height":53},
+		{"id":"cb885b06a05dd532","x":-876,"y":-500,"width":250,"height":60,"type":"text","text":"[[Tattoo Ritual]]"}
+	],
+	"edges":[]
+}

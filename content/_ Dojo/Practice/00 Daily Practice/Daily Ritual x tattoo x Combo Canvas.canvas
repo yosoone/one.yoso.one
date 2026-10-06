@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"8a0bc9ad6f50095b","type":"file","file":"Other/Nodes/Liquid Reality/Death.md","x":-420,"y":620,"width":400,"height":400},
+		{"id":"9488431c91a243de","type":"file","file":"Other/Nodes/Night rituals.md","x":20,"y":620,"width":400,"height":400},
+		{"id":"9e1de7ff74a699c4","type":"file","file":"Other/Nodes/Rebirth.md","x":460,"y":620,"width":400,"height":400},
+		{"id":"1fa62bde04a9a734","type":"file","file":"wheel.md","x":900,"y":620,"width":400,"height":400},
+		{"id":"bd536e4cb461f261","type":"text","text":"Morning","x":-420,"y":-240,"width":250,"height":60},
+		{"id":"d8ece9663131690c","type":"text","text":"[[Honour Each Cell in Your Body]] \nReiki principles","x":20,"y":-140,"width":440,"height":185},
+		{"id":"d89e73896de341eb","type":"file","file":"_ Dojo/Practice/00 Daily Practice/00 Morning Practice/00 Sources/Morning Practice.md","x":-420,"y":-150,"width":400,"height":400},
+		{"id":"76e2bc728faf26c0","type":"text","text":"Afternoon","x":-420,"y":320,"width":250,"height":60},
+		{"id":"3d0bfaa0dca532ff","type":"text","text":"Evening","x":-420,"y":420,"width":250,"height":50},
+		{"id":"f96ce08ce7f28e70","type":"text","text":"[[Birth]]","x":-420,"y":-400,"width":250,"height":60},
+		{"id":"d30b05d9e578d257","type":"text","text":"Cleaning","x":704,"y":-115,"width":250,"height":60},
+		{"id":"fb1679427c3ce5f8","type":"text","text":"Meditation","x":735,"y":-55,"width":250,"height":60},
+		{"id":"0728638c9b8704bb","type":"text","text":"Compassion","x":775,"y":5,"width":250,"height":60},
+		{"id":"5c398aea27914691","type":"text","text":"Death","x":775,"y":65,"width":250,"height":60},
+		{"id":"1ceff9cac021771e","type":"text","text":"Morning Study","x":704,"y":160,"width":250,"height":60},
+		{"id":"f6e383446ab9841a","type":"text","text":"Reading","x":775,"y":220,"width":250,"height":60},
+		{"id":"52098a09e97a0bd9","type":"text","text":"Note Taking","x":1025,"y":220,"width":250,"height":60},
+		{"id":"f3b21557eca50d9e","type":"text","text":"Break ","x":704,"y":335,"width":250,"height":60},
+		{"id":"8c4622aeea9f3c9d","type":"text","text":"[[Tattoo Ritual]]","x":-1000,"y":-240,"width":250,"height":60},
+		{"id":"7b281a0feb84a785","x":-1000,"y":-150,"width":340,"height":65,"type":"text","text":"i.e. Alex Chest 26"}
+	],
+	"edges":[]
+}
