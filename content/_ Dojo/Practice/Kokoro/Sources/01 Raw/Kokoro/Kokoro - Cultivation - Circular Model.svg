@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="770" viewBox="0 0 680 770" role="img" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+<title>Circular model of cultivating kokoro (monochrome)</title>
+<desc>Kokoro at centre; an inner ring split into merit (left) and energy (right); twelve traditions orbit on their idiom's side, with internal critiques dashed; an outer dashed boundary of Meiji–Taishō shūyō leads to Sōseki's Kokoro and the Usui memorial.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#1A1A1A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="0" y="0" width="680" height="770" rx="16" fill="#FFFFFF"/>
+<circle cx="340" cy="330" r="285" fill="none" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="6 4"/>
+<text x="340" y="78" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#1A1A1A">Meiji–Taishō shūyō</text>
+<text x="340" y="98" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#4D4D4D">Absorbs both idioms</text>
+<path d="M340 195 A135 135 0 0 0 340 465 L340 400 A70 70 0 0 1 340 260 Z" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="0.75"/>
+<text x="238" y="320" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#1A1A1A">Merit</text>
+<text x="238" y="340" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#4D4D4D">accrues</text>
+<path d="M340 195 A135 135 0 0 1 340 465 L340 400 A70 70 0 0 0 340 260 Z" fill="#D4D4D4" stroke="#1A1A1A" stroke-width="0.75"/>
+<text x="442" y="320" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#1A1A1A">Energy</text>
+<text x="442" y="340" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#4D4D4D">flows</text>
+<circle cx="340" cy="330" r="62" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+<text x="340" y="312" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#1A1A1A">Kokoro (心)</text>
+<text x="340" y="332" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#4D4D4D">Field, register,</text>
+<text x="340" y="348" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#4D4D4D">medium</text>
+<g font-size="14" text-anchor="middle" dominant-baseline="central">
+<rect x="210" y="122" width="120" height="30" rx="6" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="0.75"/><text x="270" y="137" fill="#1A1A1A">Ekō</text>
+<rect x="128" y="178" width="120" height="30" rx="6" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="0.75"/><text x="188" y="193" fill="#1A1A1A">Genze riyaku</text>
+<rect x="81" y="265" width="120" height="30" rx="6" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="4 3"/><text x="141" y="280" fill="#1A1A1A">Bodhidharma</text>
+<rect x="81" y="365" width="120" height="30" rx="6" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="4 3"/><text x="141" y="380" fill="#1A1A1A">Shinran</text>
+<rect x="128" y="452" width="120" height="30" rx="6" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="4 3"/><text x="188" y="467" fill="#1A1A1A">Dōgen</text>
+<rect x="210" y="508" width="120" height="30" rx="6" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="0.75"/><text x="270" y="523" fill="#1A1A1A">Hōtoku</text>
+<rect x="350" y="122" width="120" height="30" rx="6" fill="#E6E6E6" stroke="#1A1A1A" stroke-width="0.75"/><text x="410" y="137" fill="#1A1A1A">Ekken</text>
+<rect x="432" y="178" width="120" height="30" rx="6" fill="#E6E6E6" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="4 3"/><text x="492" y="193" fill="#1A1A1A">Hakuin</text>
+<rect x="479" y="265" width="120" height="30" rx="6" fill="#E6E6E6" stroke="#1A1A1A" stroke-width="0.75"/><text x="539" y="280" fill="#1A1A1A">Kūkai</text>
+<rect x="479" y="365" width="120" height="30" rx="6" fill="#E6E6E6" stroke="#1A1A1A" stroke-width="0.75"/><text x="539" y="380" fill="#1A1A1A">Shugendō</text>
+<rect x="432" y="452" width="120" height="30" rx="6" fill="#E6E6E6" stroke="#1A1A1A" stroke-width="0.75"/><text x="492" y="467" fill="#1A1A1A">Kami cults</text>
+<rect x="350" y="508" width="120" height="30" rx="6" fill="#E6E6E6" stroke="#1A1A1A" stroke-width="0.75"/><text x="410" y="523" fill="#1A1A1A">Seishin ryōhō</text>
+</g>
+<path d="M300 612 V628 H220 V646" fill="none" stroke="#1A1A1A" stroke-width="1" marker-end="url(#arrow)"/>
+<path d="M380 612 V628 H460 V646" fill="none" stroke="#1A1A1A" stroke-width="1" marker-end="url(#arrow)"/>
+<rect x="110" y="648" width="220" height="56" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+<text x="220" y="668" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#1A1A1A">Sōseki, Kokoro (1914)</text>
+<text x="220" y="686" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#4D4D4D">Working hypotheses</text>
+<rect x="350" y="648" width="220" height="56" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+<text x="460" y="668" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="500" fill="#1A1A1A">Usui memorial (1927)</text>
+<text x="460" y="686" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#4D4D4D">Merit engraved in kokoro</text>
+<rect x="40" y="732" width="28" height="16" rx="3" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="0.75"/>
+<text x="76" y="740" dominant-baseline="central" font-size="12" fill="#4D4D4D">Merit</text>
+<rect x="130" y="732" width="28" height="16" rx="3" fill="#E6E6E6" stroke="#1A1A1A" stroke-width="0.75"/>
+<text x="166" y="740" dominant-baseline="central" font-size="12" fill="#4D4D4D">Energy</text>
+<rect x="228" y="732" width="28" height="16" rx="3" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="264" y="740" dominant-baseline="central" font-size="12" fill="#4D4D4D">Internal critique that relocates the idiom</text>
+</svg>

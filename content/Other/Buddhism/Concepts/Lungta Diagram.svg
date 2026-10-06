@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="800" height="620" fill="#fbf7ee"/>
+
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-size="26" fill="#2b2b2b" font-weight="bold">Lungta (རླུང་རྟ) — The Windhorse Layout</text>
+  <text x="400" y="64" text-anchor="middle" font-size="14" fill="#6b6b6b" font-style="italic">Standard composition of a Tibetan prayer flag</text>
+
+  <!-- Flag panel -->
+  <rect x="120" y="90" width="560" height="400" fill="#fffdf7" stroke="#8a6d3b" stroke-width="3"/>
+
+  <!-- Mantra border ring (decorative, abstracted) -->
+  <rect x="140" y="110" width="520" height="360" fill="none" stroke="#c9a96e" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="400" y="130" text-anchor="middle" font-size="11" fill="#a08a5a" letter-spacing="2">MANTRAS AND PRAYERS SURROUND THE CENTRAL FIELD</text>
+
+  <!-- Center: Windhorse -->
+  <circle cx="400" cy="290" r="95" fill="#f3ead6" stroke="#8a6d3b" stroke-width="2"/>
+  <text x="400" y="275" text-anchor="middle" font-size="16" font-weight="bold" fill="#2b2b2b">Lungta</text>
+  <text x="400" y="295" text-anchor="middle" font-size="12" fill="#4a4a4a">Windhorse</text>
+  <text x="400" y="312" text-anchor="middle" font-size="11" fill="#6b6b6b">carrying the flaming</text>
+  <text x="400" y="326" text-anchor="middle" font-size="11" fill="#6b6b6b">wish-fulfilling jewel</text>
+  <text x="400" y="345" text-anchor="middle" font-size="10" fill="#8a6d3b" font-style="italic">(Three Jewels: Buddha, Dharma, Sangha)</text>
+
+  <!-- Corner: Garuda (upper left) -->
+  <circle cx="225" cy="180" r="58" fill="#eaf1e8" stroke="#5a7d54" stroke-width="2"/>
+  <text x="225" y="176" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b2b2b">Garuda</text>
+  <text x="225" y="193" text-anchor="middle" font-size="10" fill="#4a4a4a">fearlessness · sky</text>
+
+  <!-- Corner: Dragon (upper right) -->
+  <circle cx="575" cy="180" r="58" fill="#e8eef5" stroke="#4f6c8a" stroke-width="2"/>
+  <text x="575" y="176" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b2b2b">Dragon</text>
+  <text x="575" y="193" text-anchor="middle" font-size="10" fill="#4a4a4a">gentle power · thunder</text>
+
+  <!-- Corner: Tiger (lower left) -->
+  <circle cx="225" cy="400" r="58" fill="#f5ece0" stroke="#a06a3a" stroke-width="2"/>
+  <text x="225" y="396" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b2b2b">Tiger</text>
+  <text x="225" y="413" text-anchor="middle" font-size="10" fill="#4a4a4a">confidence · earth</text>
+
+  <!-- Corner: Snow Lion (lower right) -->
+  <circle cx="575" cy="400" r="58" fill="#f0f0f0" stroke="#7a7a7a" stroke-width="2"/>
+  <text x="575" y="396" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b2b2b">Snow Lion</text>
+  <text x="575" y="413" text-anchor="middle" font-size="10" fill="#4a4a4a">clear awareness · mountains</text>
+
+  <!-- Connecting lines to show clockwise arrangement -->
+  <line x1="283" y1="180" x2="343" y2="240" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="517" y1="180" x2="457" y2="240" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="283" y1="400" x2="343" y2="340" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="517" y1="400" x2="457" y2="340" stroke="#c9a96e" stroke-width="1"/>
+
+  <!-- Label: Four Dignities -->
+  <text x="400" y="470" text-anchor="middle" font-size="12" fill="#6b6b6b" font-style="italic">The Four Dignities (or Four Powerful Ones), arranged clockwise from the upper left</text>
+
+  <!-- Five-element color key -->
+  <text x="400" y="512" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b2b2b">Five-Element Colour Order (left to right on a strung set)</text>
+
+  <g transform="translate(130,530)">
+    <rect x="0" y="0" width="100" height="40" fill="#2f5fa8" stroke="#1c3a6b"/>
+    <text x="50" y="55" text-anchor="middle" font-size="11" fill="#2b2b2b">Blue — Space</text>
+  </g>
+  <g transform="translate(240,530)">
+    <rect x="0" y="0" width="100" height="40" fill="#f5f5f5" stroke="#999999"/>
+    <text x="50" y="55" text-anchor="middle" font-size="11" fill="#2b2b2b">White — Air</text>
+  </g>
+  <g transform="translate(350,530)">
+    <rect x="0" y="0" width="100" height="40" fill="#b03a2e" stroke="#7a2620"/>
+    <text x="50" y="55" text-anchor="middle" font-size="11" fill="#2b2b2b">Red — Fire</text>
+  </g>
+  <g transform="translate(460,530)">
+    <rect x="0" y="0" width="100" height="40" fill="#3f7d4f" stroke="#2a5636"/>
+    <text x="50" y="55" text-anchor="middle" font-size="11" fill="#2b2b2b">Green — Water</text>
+  </g>
+  <g transform="translate(570,530)">
+    <rect x="0" y="0" width="100" height="40" fill="#e0b23a" stroke="#a5822a"/>
+    <text x="50" y="55" text-anchor="middle" font-size="11" fill="#2b2b2b">Yellow — Earth</text>
+  </g>
+</svg>
