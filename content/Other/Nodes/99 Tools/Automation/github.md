@@ -1,0 +1,371 @@
+---
+publish: true
+permalink: /Other/Nodes/99 Tools/Automation/github.md
+created: 2025-03-28
+modified: 2026-10-06T05:52:34.685Z
+published: 2025-03-28
+---
+
+# RSS masto
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mastodon Feed</title>
+    <style>
+        body {
+            font-family: 'Courier New', 'Courier', monospace;
+            line-height: 1.6;
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+            color: white;
+            background-color: black;
+        }
+        .post {
+            background-color: black;
+            border: 1px solid white;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .post-content {
+            margin-bottom: 15px;
+        }
+        a {
+            color: white;
+            text-decoration: underline;
+            outline: none;
+        }
+        a:focus, a:hover {
+            text-decoration: none;
+        }
+        .link-preview {
+            padding: 10px;
+            margin-top: 10px;
+            word-break: break-all;
+        }
+        .link-preview a {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .thumbnail {
+            max-width: 100%;
+            height: auto;
+            margin-top: 10px;
+            border: 1px solid white;
+        }
+        .hashtags {
+            margin-top: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        .hashtag {
+            color: white;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="feed"></div>
+    <script>
+        async function fetchMastodonFeed() {
+            const apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://mastodon.social/@Yosoone.rss';
+
+```
+        try {
+            const response = await fetch(apiUrl);
+            const data = await response.json();
+            
+            if (data.status !== 'ok') {
+                throw new Error('Could not load posts');
+            }
+            
+            const feedElement = document.getElementById('feed');
+            
+            data.items.forEach((item) => {
+                const postDiv = document.createElement('div');
+                postDiv.className = 'post';
+                
+                // Clean up the description (remove HTML tags)
+                const tempDiv = document.createElement('div');
+                tempDiv.innerHTML = item.description || '';
+                const cleanText = tempDiv.textContent || tempDiv.innerText || '';
+                
+                // Separate hashtags
+                const hashtagRegex = /#(\w+)/g;
+                const hashtags = [];
+                let match;
+                while ((match = hashtagRegex.exec(cleanText)) !== null) {
+                    hashtags.push(match[1]);
+                }
+                
+                // Remove hashtags from main text
+                const textWithoutHashtags = cleanText.replace(hashtagRegex, '').trim();
+                
+                // Limit text length and add ellipsis if too long
+                const truncatedText = textWithoutHashtags.length > 300 
+                    ? textWithoutHashtags.substring(0, 300) + '...' 
+                    : textWithoutHashtags;
+                
+                const contentDiv = document.createElement('div');
+                contentDiv.className = 'post-content';
+                contentDiv.textContent = truncatedText;
+                
+                // Main post link
+                const linkDiv = document.createElement('div');
+                const link = document.createElement('a');
+                link.href = item.link;
+                link.textContent = 'View full post on Mastodon';
+                link.target = '_blank';
+                linkDiv.appendChild(link);
+
+                // Check for links within the post content
+                const urlRegex = /(https?:\/\/[^\s]+)/g;
+                const contentLinks = textWithoutHashtags.match(urlRegex) || [];
+                
+                // Add link previews
+                if (contentLinks.length > 0) {
+                    const linkPreviewDiv = document.createElement('div');
+                    linkPreviewDiv.className = 'link-preview';
+                    
+                    contentLinks.forEach(linkUrl => {
+                        const contentLink = document.createElement('a');
+                        contentLink.href = linkUrl;
+                        contentLink.textContent = linkUrl;
+                        contentLink.target = '_blank';
+                        linkPreviewDiv.appendChild(contentLink);
+                    });
+                    
+                    postDiv.appendChild(contentDiv);
+                    postDiv.appendChild(linkDiv);
+                    postDiv.appendChild(linkPreviewDiv);
+                } else {
+                    postDiv.appendChild(contentDiv);
+                    postDiv.appendChild(linkDiv);
+                }
+
+                // Add hashtags
+                if (hashtags.length > 0) {
+                    const hashtagsDiv = document.createElement('div');
+                    hashtagsDiv.className = 'hashtags';
+                    
+                    hashtags.forEach(tag => {
+                        const hashtagLink = document.createElement('a');
+                        hashtagLink.href = `https://mastodon.social/tags/${tag}`;
+                        hashtagLink.textContent = `#${tag}`;
+                        hashtagLink.className = 'hashtag';
+                        hashtagLink.target = '_blank';
+                        hashtagsDiv.appendChild(hashtagLink);
+                    });
+                    
+                    postDiv.appendChild(hashtagsDiv);
+                }
+
+                // Add thumbnail if available
+                if (item.enclosure && item.enclosure.link) {
+                    const thumbnailImg = document.createElement('img');
+                    thumbnailImg.src = item.enclosure.link;
+                    thumbnailImg.alt = 'Post thumbnail';
+                    thumbnailImg.className = 'thumbnail';
+                    thumbnailImg.onerror = function() {
+                        this.style.display = 'none';
+                    };
+                    postDiv.appendChild(thumbnailImg);
+                }
+                
+                feedElement.appendChild(postDiv);
+            });
+        } catch (err) {
+            document.getElementById('feed').textContent = 'Unable to load posts. Please try again later.';
+        }
+    }
+    fetchMastodonFeed();
+</script>
+```
+
+</body>
+</html>
+sqsp
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mastodon Feed</title>
+    <style>
+        body {
+            font-family: 'Courier New', 'Courier', monospace;
+            line-height: 1.6;
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px;
+            color: white;
+            background-color: black;
+        }
+        .post {
+            background-color: black;
+            border: 1px solid white;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .post-content {
+            margin-bottom: 15px;
+        }
+        a {
+            color: white;
+            text-decoration: underline;
+            outline: none;
+        }
+        a:focus, a:hover {
+            text-decoration: none;
+        }
+        .link-preview {
+            padding: 10px;
+            margin-top: 10px;
+            word-break: break-all;
+        }
+        .link-preview a {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .thumbnail {
+            max-width: 100%;
+            height: auto;
+            margin-top: 10px;
+            border: 1px solid white;
+        }
+        .hashtags {
+            margin-top: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        .hashtag {
+            color: white;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="feed"></div>
+    <script>
+        async function fetchMastodonFeed() {
+            const apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://mastodon.social/@Yosoone.rss';
+
+```
+        try {
+            const response = await fetch(apiUrl);
+            const data = await response.json();
+            
+            if (data.status !== 'ok') {
+                throw new Error('Could not load posts');
+            }
+            
+            const feedElement = document.getElementById('feed');
+            
+            data.items.forEach((item) => {
+                const postDiv = document.createElement('div');
+                postDiv.className = 'post';
+                
+                // Clean up the description (remove HTML tags)
+                const tempDiv = document.createElement('div');
+                tempDiv.innerHTML = item.description || '';
+                const cleanText = tempDiv.textContent || tempDiv.innerText || '';
+                
+                // Separate hashtags
+                const hashtagRegex = /#(\w+)/g;
+                const hashtags = [];
+                let match;
+                while ((match = hashtagRegex.exec(cleanText)) !== null) {
+                    hashtags.push(match[1]);
+                }
+                
+                // Remove hashtags from main text
+                const textWithoutHashtags = cleanText.replace(hashtagRegex, '').trim();
+                
+                // Limit text length and add ellipsis if too long
+                const truncatedText = textWithoutHashtags.length > 300 
+                    ? textWithoutHashtags.substring(0, 300) + '...' 
+                    : textWithoutHashtags;
+                
+                const contentDiv = document.createElement('div');
+                contentDiv.className = 'post-content';
+                contentDiv.textContent = truncatedText;
+                
+                // Main post link
+                const linkDiv = document.createElement('div');
+                const link = document.createElement('a');
+                link.href = item.link;
+                link.textContent = 'View full post on Mastodon';
+                link.target = '_blank';
+                linkDiv.appendChild(link);
+
+                // Check for links within the post content
+                const urlRegex = /(https?:\/\/[^\s]+)/g;
+                const contentLinks = textWithoutHashtags.match(urlRegex) || [];
+                
+                // Add link previews
+                if (contentLinks.length > 0) {
+                    const linkPreviewDiv = document.createElement('div');
+                    linkPreviewDiv.className = 'link-preview';
+                    
+                    contentLinks.forEach(linkUrl => {
+                        const contentLink = document.createElement('a');
+                        contentLink.href = linkUrl;
+                        contentLink.textContent = linkUrl;
+                        contentLink.target = '_blank';
+                        linkPreviewDiv.appendChild(contentLink);
+                    });
+                    
+                    postDiv.appendChild(contentDiv);
+                    postDiv.appendChild(linkDiv);
+                    postDiv.appendChild(linkPreviewDiv);
+                } else {
+                    postDiv.appendChild(contentDiv);
+                    postDiv.appendChild(linkDiv);
+                }
+
+                // Add hashtags
+                if (hashtags.length > 0) {
+                    const hashtagsDiv = document.createElement('div');
+                    hashtagsDiv.className = 'hashtags';
+                    
+                    hashtags.forEach(tag => {
+                        const hashtagLink = document.createElement('a');
+                        hashtagLink.href = `https://mastodon.social/tags/${tag}`;
+                        hashtagLink.textContent = `#${tag}`;
+                        hashtagLink.className = 'hashtag';
+                        hashtagLink.target = '_blank';
+                        hashtagsDiv.appendChild(hashtagLink);
+                    });
+                    
+                    postDiv.appendChild(hashtagsDiv);
+                }
+
+                // Add thumbnail if available
+                if (item.enclosure && item.enclosure.link) {
+                    const thumbnailImg = document.createElement('img');
+                    thumbnailImg.src = item.enclosure.link;
+                    thumbnailImg.alt = 'Post thumbnail';
+                    thumbnailImg.className = 'thumbnail';
+                    thumbnailImg.onerror = function() {
+                        this.style.display = 'none';
+                    };
+                    postDiv.appendChild(thumbnailImg);
+                }
+                
+                feedElement.appendChild(postDiv);
+            });
+        } catch (err) {
+            document.getElementById('feed').textContent = 'Unable to load posts. Please try again later.';
+        }
+    }
+    fetchMastodonFeed();
+</script>
+```
+
+</body>
+</html>
+https://www.yourdomain.com/pageslug?format=rss
+i.e. https://tattoo.yoso.eu/japanesetattoo?format=rss

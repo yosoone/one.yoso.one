@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 850" width="1240" height="850" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif">
+  <rect width="1240" height="850" fill="#ECEEE9"/>
+  <text x="40" y="54" font-family="Palatino, Iowan Old Style, Georgia, serif" font-size="30" fill="#2B2A33">How the seven chakras came to be</text>
+  <text x="40" y="82" font-size="14" fill="#5C5B63">Five maps of the central channel, oldest on the left. Positions are schematic; colour appears only in the modern column.</text>
+
+  <g stroke="#C9CCC4" stroke-width="1" stroke-dasharray="2 6">
+    <line x1="40" y1="170" x2="1200" y2="170"/><line x1="40" y1="240" x2="1200" y2="240"/>
+    <line x1="40" y1="310" x2="1200" y2="310"/><line x1="40" y1="390" x2="1200" y2="390"/>
+    <line x1="40" y1="480" x2="1200" y2="480"/><line x1="40" y1="550" x2="1200" y2="550"/>
+    <line x1="40" y1="610" x2="1200" y2="610"/>
+  </g>
+
+  <!-- 1 Buddhist: Hevajra Tantra I.i.24 -->
+  <line x1="70" y1="140" x2="70" y2="630" stroke="#2B2A33" stroke-width="2"/>
+  <g fill="#ECEEE9" stroke="#9A6B1F" stroke-width="2.5">
+    <circle cx="70" cy="170" r="12"/><circle cx="70" cy="310" r="12"/><circle cx="70" cy="390" r="12"/><circle cx="70" cy="480" r="12"/>
+  </g>
+  <g font-size="13" fill="#2B2A33">
+    <text x="90" y="166">Mahāsukha chakra</text><text x="90" y="181" font-size="11" fill="#6E6D74">great bliss · head · 32 petals</text>
+    <text x="90" y="306">Sambhoga chakra</text><text x="90" y="321" font-size="11" fill="#6E6D74">enjoyment · throat · 16 petals</text>
+    <text x="90" y="386">Dharma chakra</text><text x="90" y="401" font-size="11" fill="#6E6D74">teaching · heart · 8 petals</text>
+    <text x="90" y="476">Nirmāṇa chakra</text><text x="90" y="491" font-size="11" fill="#6E6D74">emanation · navel · 64 petals</text>
+  </g>
+
+  <!-- 2 Kubjikamata five, placed by body region and element -->
+  <line x1="300" y1="140" x2="300" y2="630" stroke="#2B2A33" stroke-width="2"/>
+  <g fill="#9A6B1F">
+    <circle cx="300" cy="150" r="10"/>
+    <circle cx="300" cy="310" r="10"/>
+    <circle cx="300" cy="390" r="10"/>
+    <circle cx="300" cy="465" r="10"/>
+    <rect x="290" y="540" width="20" height="80" rx="10"/>
+  </g>
+  <g font-size="13" fill="#2B2A33">
+    <text x="320" y="146">Khecarīchakra</text><text x="320" y="161" font-size="11" fill="#6E6D74">sky-goers · above head · space</text>
+    <text x="320" y="306">Yoginīchakra</text><text x="320" y="321" font-size="11" fill="#6E6D74">yoginīs · throat · air</text>
+    <text x="320" y="386">Mātṛchakra</text><text x="320" y="401" font-size="11" fill="#6E6D74">mothers · heart · fire</text>
+    <text x="320" y="461">Dūtīchakra</text><text x="320" y="476" font-size="11" fill="#6E6D74">messengers · navel · water</text>
+    <text x="320" y="576">Devīchakra</text><text x="320" y="591" font-size="11" fill="#6E6D74">goddesses · below navel · earth</text>
+  </g>
+
+  <!-- 3 Kubjikamata six -->
+  <line x1="530" y1="140" x2="530" y2="630" stroke="#2B2A33" stroke-width="2"/>
+  <g fill="#ECEEE9" stroke="#9A6B1F" stroke-width="2.5">
+    <circle cx="530" cy="240" r="12"/><circle cx="530" cy="310" r="12"/><circle cx="530" cy="390" r="12"/>
+    <circle cx="530" cy="480" r="12"/><circle cx="530" cy="550" r="12"/><circle cx="530" cy="610" r="12"/>
+  </g>
+  <g font-size="13" fill="#2B2A33">
+    <text x="550" y="236">Ājñā</text><text x="550" y="251" font-size="11" fill="#6E6D74">command</text>
+    <text x="550" y="306">Viśuddhi</text><text x="550" y="321" font-size="11" fill="#6E6D74">purification</text>
+    <text x="550" y="386">Anāhata</text><text x="550" y="401" font-size="11" fill="#6E6D74">unstruck</text>
+    <text x="550" y="476">Maṇipūra</text><text x="550" y="491" font-size="11" fill="#6E6D74">city of jewels</text>
+    <text x="550" y="546">Svādhiṣṭhāna</text><text x="550" y="561" font-size="11" fill="#6E6D74">own base</text>
+    <text x="550" y="606">Ādhāra</text><text x="550" y="621" font-size="11" fill="#6E6D74">support</text>
+  </g>
+
+  <!-- 4 Satchakranirupana -->
+  <line x1="760" y1="140" x2="760" y2="630" stroke="#2B2A33" stroke-width="2"/>
+  <circle cx="760" cy="170" r="16" fill="none" stroke="#9A6B1F" stroke-width="2" stroke-dasharray="3 3"/>
+  <g fill="#ECEEE9" stroke="#9A6B1F" stroke-width="2.5">
+    <circle cx="760" cy="240" r="12"/><circle cx="760" cy="310" r="12"/><circle cx="760" cy="390" r="12"/>
+    <circle cx="760" cy="480" r="12"/><circle cx="760" cy="550" r="12"/><circle cx="760" cy="610" r="12"/>
+  </g>
+  <g font-size="13" fill="#2B2A33">
+    <text x="784" y="166">Sahasrāra</text><text x="784" y="181" font-size="11" fill="#6E6D74">thousand-petalled · above the six</text>
+    <text x="780" y="236">Ājñā</text><text x="780" y="251" font-size="11" fill="#6E6D74">command · 2 petals</text>
+    <text x="780" y="306">Viśuddha</text><text x="780" y="321" font-size="11" fill="#6E6D74">purified · 16 petals</text>
+    <text x="780" y="386">Anāhata</text><text x="780" y="401" font-size="11" fill="#6E6D74">unstruck · 12 petals</text>
+    <text x="780" y="476">Maṇipūra</text><text x="780" y="491" font-size="11" fill="#6E6D74">city of jewels · 10 petals</text>
+    <text x="780" y="546">Svādhiṣṭhāna</text><text x="780" y="561" font-size="11" fill="#6E6D74">own base · 6 petals</text>
+    <text x="780" y="606">Mūlādhāra</text><text x="780" y="621" font-size="11" fill="#6E6D74">root support · 4 petals</text>
+  </g>
+
+  <!-- 5 Modern Western -->
+  <line x1="1020" y1="140" x2="1020" y2="630" stroke="#2B2A33" stroke-width="2"/>
+  <circle cx="1020" cy="170" r="12" fill="#8A5CC2"/><circle cx="1020" cy="240" r="12" fill="#4B4FB0"/>
+  <circle cx="1020" cy="310" r="12" fill="#3D8FD1"/><circle cx="1020" cy="390" r="12" fill="#3E9E5C"/>
+  <circle cx="1020" cy="480" r="12" fill="#E3B92E"/><circle cx="1020" cy="550" r="12" fill="#E47A2B"/>
+  <circle cx="1020" cy="610" r="12" fill="#C9352B"/>
+  <g font-size="12" fill="#2B2A33">
+    <text x="1040" y="174">Crown</text><text x="1040" y="244">Third eye</text><text x="1040" y="314">Throat</text>
+    <text x="1040" y="394">Heart</text><text x="1040" y="484">Solar plexus</text><text x="1040" y="554">Sacral</text><text x="1040" y="614">Root</text>
+  </g>
+
+  <!-- Captions -->
+  <line x1="40" y1="660" x2="1200" y2="660" stroke="#2B2A33" stroke-width="1"/>
+  <g fill="#2B2A33">
+    <text x="40" y="690" font-family="Palatino, Iowan Old Style, Georgia, serif" font-size="17">Buddhist tantra</text>
+    <text x="40" y="710" font-size="12" fill="#5C5B63">Hevajra Tantra I.i.24</text>
+    <text x="40" y="727" font-size="12" fill="#5C5B63">Four lotuses on the central channel</text>
+
+    <text x="270" y="690" font-family="Palatino, Iowan Old Style, Georgia, serif" font-size="17">Kubjikāmata, five</text>
+    <text x="270" y="710" font-size="12" fill="#5C5B63">Chapters 14–16; five elements</text>
+    <text x="270" y="727" font-size="12" fill="#5C5B63">Seats of five goddess classes</text>
+
+    <text x="500" y="690" font-family="Palatino, Iowan Old Style, Georgia, serif" font-size="17">Kubjikāmata, six</text>
+    <text x="500" y="710" font-size="12" fill="#5C5B63">Oldest dated manuscript 1037/8</text>
+    <text x="500" y="727" font-size="12" fill="#5C5B63">Earliest six-chakra enumeration</text>
+
+    <text x="730" y="690" font-family="Palatino, Iowan Old Style, Georgia, serif" font-size="17">Ṣaṭchakranirūpaṇa</text>
+    <text x="730" y="710" font-size="12" fill="#5C5B63">Pūrṇānanda, Bengal, 1577</text>
+    <text x="730" y="727" font-size="12" fill="#5C5B63">“Six chakras” plus the crown</text>
+
+    <text x="990" y="690" font-family="Palatino, Iowan Old Style, Georgia, serif" font-size="17">Modern Western</text>
+    <text x="990" y="710" font-size="12" fill="#5C5B63">1880s–1977; rainbow order 1930s,</text>
+    <text x="990" y="727" font-size="12" fill="#5C5B63">full synthesis 1977 (Dychtwald)</text>
+  </g>
+
+  <text x="40" y="790" font-size="11" fill="#6E6D74">Sources: Snellgrove (OUP, 1959); Goudriaan &amp; Schoterman (Brill, 1988); Heilijgers-Seelen (Egbert Forsten, 1994); Avalon/Woodroffe (Luzac, 1919);</text>
+  <text x="40" y="806" font-size="11" fill="#6E6D74">White, ed. (Princeton UP, 2012); Mallinson &amp; Singleton (Penguin Classics, 2017); Leland, Rainbow Body (Ibis, 2016). Five-chakra placement to be confirmed in Heilijgers-Seelen.</text>
+  <text x="40" y="822" font-size="11" fill="#6E6D74">English glosses and diagram by Claude (AI).</text>
+</svg>
